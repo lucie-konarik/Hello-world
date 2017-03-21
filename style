@@ -1,0 +1,65 @@
+
+ <style>
+
+    body {
+font-family:serif ;
+font-size:30px;
+background:
+ url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/circles.png');
+    }
+    .content {
+      margin: 15px 40px 15px 40px;
+      border: 6px solid #491A1A;
+      padding:0px 10px 0px 10px;
+      float:left;
+    }
+  .zanr{
+font-size:50px;
+text-decoration: underline;
+text-transform: uppercase;
+  }
+  h1{
+    font/size:35;
+    color: #2F0A0A;
+  }
+
+  .autor{
+    font-style:italic;
+
+  }
+  .name{
+    font-weight:bold;
+  }
+  .zdroj{
+    font-style:italic;
+  }
+#uvod{
+  padding-top: 40px;
+}
+#pytel{
+  padding-top: 10px;
+}
+
+ h2:{
+ font-size: 30px;
+ color: #491A1A;
+
+ }
+p {
+  line-height:1.5em; 
+  text-align: justify;
+}
+#soutez {
+padding-top: 10px;
+}
+#zaver {
+padding-top: 10px;
+}
+ footer {
+  font-size: 45px;
+  font-weight: bold;
+
+
+ }
+  </style>
+  
